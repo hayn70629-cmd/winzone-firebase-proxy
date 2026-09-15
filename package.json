@@ -1,0 +1,13 @@
+{
+  "name": "winzone-firebase-rtdb-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Small GitHub-deployable Firebase RTDB proxy for WinZone",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
